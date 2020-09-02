@@ -1,2 +1,2 @@
 # First_Net_from_scratch
-Buiding a neural networks from scratch
+Building a neural network from scratch
